@@ -1,0 +1,4 @@
+*.o
+Doxyfile
+README.txt
+html
